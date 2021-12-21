@@ -30,4 +30,4 @@ highlight_name: true
 title: Charles Grimshaw
 email: ""
 ---
-Lieutenant (Navy) Charles Grimshaw is a security engineer specialized in offensive and defensive network security operations. He is currently working full-time as an Officer in the Royal Canadian Navy, attending sponsored post-graduate schooling. Charles is a proud , supporting Canadian peace operations at-home and abroad.
+Lieutenant (Navy) Charles Grimshaw is a security engineer specialized in offensive and defensive network security operations. He is currently studying full-time, attending sponsored post-graduate schooling. Charles is a proud Naval Officer, supporting Canadian peace operations at-home and abroad.

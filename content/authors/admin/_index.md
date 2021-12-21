@@ -1,22 +1,14 @@
 ---
 title: Charles Grimshaw
-role: Cyber Security Engineer
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests: []
+role: Cyber Security Engineer, Lieutenant (Navy)
+bio: My research interests include anomaly detection, malware analysis, and
+  reverse engineering.
+interests:
+  - Software
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/c-grimshaw
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -28,16 +20,11 @@ education:
     - course: MASc in Computer Network Security
       institution: Queen's / Royal Military College of Canada
       year: 2021
-    - course: BEng in Computer Engineering
+    - course: BEng in Computer Engineering, High Honours
       institution: Royal Military College of Canada
-      year: 1996
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Charles Grimshaw is a security engineer specialized in offensive and defensive network security operations. He is currently working full-time as an Officer in the Royal Canadian Navy,  attending sponsored post-graduate schooling.

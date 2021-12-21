@@ -4,7 +4,9 @@ role: Cyber Security Engineer, Lieutenant (Navy)
 bio: My research interests include anomaly detection, malware analysis, and
   reverse engineering.
 interests:
-  - Software
+  - SoftwareEngineering
+  - MalwareAnalysis
+  - ReverseEngineering
 social:
   - icon: github
     icon_pack: fab

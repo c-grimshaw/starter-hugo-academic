@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Dec 2021
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Security Engineer 
+    company: Department of National Defence
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Ottawa
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Project Management
+        * Design
+        * Validation
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Surveillance Officer 
+    company: Department of National Defence
     company_url: ''
     company_logo: org-x
-    location: California
+    location: British Columbia
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Lead planner for Canada's contribution to coastal surveillance. 
 
 design:
   columns: '2'

@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: lieutenant
     location: British Columbia
-    date_start: '01-01-2016'
-    date_end: '31-12-2020'
+    date_start: '2016-01-01'
+    date_end: '2020-01-01'
     description: Lead planner for Canada's contribution to coastal surveillance. 
 
 design:

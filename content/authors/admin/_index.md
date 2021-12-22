@@ -22,7 +22,7 @@ education:
     - course: MASc in Computer Network Security
       institution: Queen's / Royal Military College of Canada
       year: 2021
-    - course: BEng in Computer Engineering, High Honours
+    - course: BEng in Computer Engineering
       institution: Royal Military College of Canada
       year: 2017
 superuser: true

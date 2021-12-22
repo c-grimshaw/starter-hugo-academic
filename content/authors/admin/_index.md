@@ -1,6 +1,6 @@
 ---
 role: Cyber Security Engineer
-avatar_filename: rsz_265546712_583839429406665_1742045012888744787_n.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include anomaly detection, malware analysis, and
   reverse engineering.
 interests:

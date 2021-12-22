@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: '6 Dec, 2021'
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -25,7 +25,7 @@ experience:
   - title: Security Engineer 
     company: Department of National Defence
     company_url: ''
-    company_logo: org-gc
+    company_logo: lieutenant
     location: Ottawa
     date_start: '2021-01-01'
     date_end: ''
@@ -35,14 +35,14 @@ experience:
         * Project Management
         * Design
         * Validation
-        
+
   - title: Surveillance Officer 
     company: Department of National Defence
     company_url: ''
-    company_logo: org-x
+    company_logo: lieutenant
     location: British Columbia
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '01-01-2016'
+    date_end: '31-12-2020'
     description: Lead planner for Canada's contribution to coastal surveillance. 
 
 design:
